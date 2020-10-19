@@ -1,3 +1,4 @@
+
 [![PyPI version](https://badge.fury.io/py/djtesseract.svg)](https://badge.fury.io/py/djtesseract)
 
 This repo forked from [django-tesseractfield](https://github.com/duboisR/django-tesseractfield) to update last release versions of packages, framework, and Python.
